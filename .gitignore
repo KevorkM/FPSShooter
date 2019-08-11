@@ -1,0 +1,10 @@
+Build/
+Binaries/
+DerivedDataCache/
+Binaries/
+Intermediate/
+Saved/
+Content/FirstPerson/Character/Materials/
+*.db
+.vs/
+
